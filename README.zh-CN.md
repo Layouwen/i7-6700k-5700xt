@@ -1,5 +1,7 @@
 # Clover EFI File
 
+[English](./README.md) | 中文
+
 如果此 EFI 对你有所帮助，可以点个 Star 支持一下，还可以点个 Watch。当系统大升级后，我可能会更新 EFI 届时你会收到短信通知。
 
 ## 配置
